@@ -1,0 +1,1 @@
+git@github.com:KOZYR001/posmotri_v_okno-main.git
